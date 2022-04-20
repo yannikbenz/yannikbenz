@@ -1,6 +1,10 @@
 ### Hi there my name is Yannik Benz 👋
 
-🔭 I’m currently working on my masters thesis @bosch about "Graph-based representations of driving scenarios for vehicle trajectory prediction".
+I'm interested in machine learning & distributed systems.
+
+Currently I am working on my masters thesis @bosch about "Graph-based representations of driving scenarios for vehicle trajectory prediction".
+
+
 
 <!--
 **yannikbenz/yannikbenz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
