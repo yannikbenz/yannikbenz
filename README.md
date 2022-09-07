@@ -2,8 +2,6 @@
 
 I'm interested in machine learning & distributed systems.
 
-Currently I am working on my masters thesis @bosch about "Graph-based representations of driving scenarios for vehicle trajectory prediction".
-
 
 
 <!--
