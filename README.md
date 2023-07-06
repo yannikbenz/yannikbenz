@@ -1,6 +1,6 @@
 ### Hi there my name is Yannik Benz 👋
 
-I'm interested in machine learning & distributed systems.
+I'm interested in machine learning.
 
 
 
